@@ -43,7 +43,7 @@ export default function ResumeCTA() {
             viewport={{ once: true }}
             className="text-lg md:text-xl text-indigo-200 leading-relaxed mb-10 max-w-2xl mx-auto"
           >
-            Download my resume to explore my professional journey in detail and let's discuss how I can contribute to your team.
+            Download my resume to explore my professional journey in detail and let&#39;s discuss how I can contribute to your team.
           </motion.p>
 
           <motion.div

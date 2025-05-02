@@ -61,7 +61,7 @@ export default function Footer() {
           >
             <h4 className="text-xl font-semibold text-white mb-6">Explore</h4>
             <ul className="space-y-3">
-              {['Home', 'About', 'Skills', 'Projects', 'Experience'].map((item, index) => (
+              {['Home', 'About', 'Skills', 'Projects', 'Experience'].map((item) => (
                 <motion.li 
                   key={item}
                   whileHover={{ x: 5 }}
@@ -82,7 +82,7 @@ export default function Footer() {
             whileInView={{ opacity: 1, y: 0 }}
             transition={{ duration: 0.5, delay: 0.2 }}
           >
-            <h4 className="text-xl font-semibold text-white mb-6">Let's Connect</h4>
+            <h4 className="text-xl font-semibold text-white mb-6">Let&#39;s Connect</h4>
             <a 
               href="mailto:tanishasingh252004@gmail.com" 
               className="inline-flex items-center text-indigo-300 hover:text-white transition-colors mb-4"

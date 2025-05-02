@@ -22,7 +22,7 @@ export default function About() {
               Get to Know <span className="text-indigo-600">Me</span>
             </h2>
             <p className="text-lg md:text-xl text-gray-600 leading-relaxed">
-              I'm a <span className="font-semibold text-gray-800">creative technologist</span> blending aesthetic vision with functional code. From intuitive UI/UX to high-performance web interfaces, I craft seamless digital journeys that leave a lasting impact.
+              I&#39;m a <span className="font-semibold text-gray-800">creative technologist</span> blending aesthetic vision with functional code. From intuitive UI/UX to high-performance web interfaces, I craft seamless digital journeys that leave a lasting impact.
             </p>
           </motion.div>
 

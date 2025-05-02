@@ -16,7 +16,7 @@ export default function Hero() {
         className="lg:w-3/5 text-center lg:text-left px-4" // Increased width and added padding
         >
         <h1 className="text-4xl sm:text-5xl md:text-6xl font-extrabold text-gray-900 leading-tight mb-6">
-              Hi, I'm <span className="bg-gradient-to-r from-indigo-500 to-purple-600 text-transparent bg-clip-text">Tanisha Singh</span>
+              Hi, I&#39;m <span className="bg-gradient-to-r from-indigo-500 to-purple-600 text-transparent bg-clip-text">Tanisha Singh</span>
             </h1>
             <p className="text-lg sm:text-xl text-gray-700 mb-6 max-w-xl mx-auto lg:mx-0">
               A creative designer & developer based in India, passionate about blending design with technology to craft immersive digital experiences that are not just beautiful, but also functional and user-centric.
